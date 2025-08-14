@@ -17,12 +17,12 @@ refinement of your design. <br>
 high-fidelity prototype features.
 <br>
 <br>
-## Problem Statement <br>
+# Problem Statement <br>
 The company you work for has been contracted by the local City Council to design a mobile app.
 The purpose of the app is to enable visitors to the city’s shopping centres and amenities to pay the
-extortionate parking charges at any of the council-owned car parks in the city.
+extortionate parking charges at any of the council-owned car parks in the city.<br>
 It is known that some older drivers struggle with modern methods of payment (such as contactless
-and apps), however this demographic is an important source of visitors to the city.
+and apps), however this demographic is an important source of visitors to the city.<br>
 While some other cities have recently put in place alternative payment arrangements (e.g. St Albans –
 see https://www.bbc.co.uk/news/articles/cwypzwe0ex7o) your own City Council are determined that
 their app will be so “user friendly” (in their words!) that all visitors will find it straightforward to use.
