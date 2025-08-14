@@ -7,17 +7,17 @@ problem statement.
 The end result of your design activities must be a high-fidelity Figma prototype, however you are
 required to show evidence of the iterative design process you have followed to reach that goal.
 You are required to deliver the following:
-• A Proto-Persona and an Empathy Map (each with a maximum of 400 words).
-• Evidence of iterative development, through annotated low-fidelity prototypes (each with a
-maximum of 20 screens).
+• A Proto-Persona and an Empathy Map (each with a maximum of 400 words). <br>
+• Evidence of iterative development, through annotated low-fidelity prototypes (each with a 
+maximum of 20 screens). <br>
 • Results of any user testing you have carried out and evidence of how that supported the
-refinement of your design.
-• A high-fidelity prototype for the problem statement described below.
+refinement of your design. <br>
+• A high-fidelity prototype for the problem statement described below. <br>
 • A video (approx. 5 minutes) explaining the process you followed and showcasing the final
 high-fidelity prototype features.
 <br>
 <br>
-# Problem Statement
+## Problem Statement <br>
 The company you work for has been contracted by the local City Council to design a mobile app.
 The purpose of the app is to enable visitors to the city’s shopping centres and amenities to pay the
 extortionate parking charges at any of the council-owned car parks in the city.
@@ -34,8 +34,8 @@ o a specified length of time <br>
 o starting at a specified time/date <br>
 o in a specified council car park or other designated parking area <br>
 • Gives users the option to pay for parking in advance <br>
-• Integrates with the phone’s location sensor to allow users to pay for parking “on the spot” <br>
-wherever and whenever they park in the city.
+• Integrates with the phone’s location sensor to allow users to pay for parking “on the spot” 
+wherever and whenever they park in the city. <br>
 • Allows users to see their parking history and receipts of payments made v
 • Can be set to give reminders when time is running out <br>
 • Allows regular users to create a profile including <br>     
